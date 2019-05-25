@@ -1,0 +1,4 @@
+this project use pyspark to query 
+"The city at the highest temperature of each year"
+
+data source : https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
