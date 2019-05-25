@@ -6,3 +6,6 @@ Data Scource : https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-s
 
 
 Output : 
+![alt text](https://github.com/ezigag/pyspark_query/blob/master/image.png)
+
+
